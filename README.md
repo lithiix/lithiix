@@ -32,13 +32,13 @@
   <a href="https://twitter.com/lithiraransika" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/lithiraransika" target="_blank">
+  <a href="https://www.linkedin.com/in/lithira-ransika-43b237194/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/l_e_o__r_" target="_blank">
+  <a href="https://www.instagram.com/l_e_o__r_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/c/lithiraransika" target="_blank">
+  <a href="https://www.youtube.com/channel/UC13LBAT44wwrobaU9dev6jg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
