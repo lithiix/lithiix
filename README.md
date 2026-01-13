@@ -21,7 +21,7 @@ const lithiix = {
     currentFocus: "Building cool stuff & learning new technologies",
     interests: ["Open Source", "Web Development", "Tech Innovation"],
     funFact: "I turn coffee into code ☕️➡️💻",
-    lifePhilosophy: "Code, Learn, Repeat! ��"
+    lifePhilosophy: "Code, Learn, Repeat! 🔄"
 };
 ```
 
@@ -108,7 +108,7 @@ const lithiix = {
 
 ---
 
-## �� Quote of the Day
+## 💭 Quote of the Day
 
 <div align="center">
 
