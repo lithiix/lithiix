@@ -72,7 +72,7 @@ const lithiix = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lithiix&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lithiix&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
@@ -119,6 +119,12 @@ const lithiix = {
 ---
 
 ## 🐍 Contribution Snake
+
+<!-- 
+Note: To enable the snake animation, you'll need to set up a GitHub Action.
+Create .github/workflows/snake.yml with the snake generation workflow.
+Until then, the images may not display.
+-->
 
 <div align="center">
   <picture>
